@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/radespratama/radespratama/blob/main/static/BannerKu.png" />
+</div>
+
 ## About
 
 Hi, I am Wahid Rizka Fathurrohman🙂 from Cilacap, Indonesia. A Software Engineer Enthusiast. I prefer Front-End Development, but I will try to explore everything🌱.

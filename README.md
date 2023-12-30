@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/wahidrizka/wahidrizka/main/static/Bannerku.png" />
+  <img src="https://raw.githubusercontent.com/wahidrizka/wahidrizka/main/static/oxobz.png" />
 </div>
 
 ## About
